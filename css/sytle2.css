@@ -1,1 +1,5 @@
-
+img.saimu-bn{
+  width: 300px;
+  height: 220px;
+  object-fit: cover; 
+}
