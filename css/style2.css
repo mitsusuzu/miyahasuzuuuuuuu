@@ -2,7 +2,7 @@ p.works-img.saimu-bn{
   margin:25px 0;
 }
 
-@media screen and (min-width: 960px) {
+@media screen and (max-width: 960px) {
   p.works-img.saimu-bn{
   margin:16px 0;
 }
