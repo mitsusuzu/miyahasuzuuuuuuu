@@ -2,10 +2,11 @@
   p.works-img.saimu-bn{
   margin:20px 0;}
 }
-
+@media screen and (min-width: 960px){
   p.works-img.saimu-bn {
     margin: 37px 0;
   }
+}
 
 
 p.works-name.romance{
